@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saksham Bisen</h1>
-<h3 align="center">A passionate Django React FullStack developer with enthusiasm for Ethereum development from India</h3>
+<h3 align="center">A passionate Web3 Backend and FullStack developer with enthusiasm for Blockchain development from India</h3>
 
-- 👯 I’m looking to collaborate on **Ethereum Projects**
+- 👯 I’m looking to collaborate on **Ethereum Projects, Rust Backend, Python FastAPI Projects**
 
 - 👨‍💻 All of my projects are available at [Here](Here)
 
-- 💬 Ask me about **Django,React,Ethereum**
+- 💬 Ask me about **Django,React,Ethereum,Rust,FastAPI**
 
 - 📫 How to reach me **sakshambisen123@gmail.com**
 

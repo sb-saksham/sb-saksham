@@ -1,18 +1,59 @@
+
 <h1 align="center">Hi 👋, I'm Saksham Bisen</h1>
-<h3 align="center">A passionate Web3 Backend and FullStack developer with enthusiasm for Blockchain development from India</h3>
+<h3 align="center">Applied AI & Systems Engineer, building sandboxed execution infrastructure, agent orchestration, and eval frameworks</h3>
 
-- 👯 I’m looking to collaborate on **Ethereum Projects, Rust Backend, Python FastAPI Projects**
+<p align="center">
+Robotics & Automation engineer who moved into AI systems. I build the layer between LLMs and reliable production behavior: execution sandboxes, orchestration graphs, and evaluation harnesses that make agents debuggable instead of magical.
+</p>
+<br>
 
-- 👨‍💻 All of my projects are available at [Here](Here)
+### 🔭 Currently building
 
-- 💬 Ask me about **Django,React,Ethereum,Rust,FastAPI**
+- **Agent execution infrastructure** at LastLab AI: hybrid sandboxed runtime with conditional routing between Kata Containers (GPU workloads) and Firecracker microVMs (CPU-only isolation)
+- **LangGraph-driven orchestration**: stateful multi-step agent reasoning with typed tool contracts and recoverable execution graphs
+- **Eval frameworks**: component-level golden-response testing for agent reliability
 
-- 📫 How to reach me **sakshambisen123@gmail.com**
+### 🧠 What I care about
 
-<h3 align="left">Connect with me:</h3>
+Agent reliability • Sandboxed execution • Specification-first systems design • Eval-driven development • The intersection of AI infrastructure and the physical world (robotics/UAV background)
+
+### 🛠️ Languages and Tools
+
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,rust,fastapi,django,postgres,redis,docker,linux,aws,supabase,tensorflow,solidity" />
+</p>
+<p align="left">
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" />
+  <img height="48" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png" />
+  <img height="48" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### 📍 Background
 
+B.Tech, Robotics & Automation (9.1 GPA) · Contributed to Gemini/Llama training pipelines @ Turing · Distributed systems engineering in Go @ Cubane · UAV systems architecture @ VimaanX
+
+### 💬 Ask me about
+
+**LangGraph** • **Firecracker microVMs** • **Agent evaluation** • **FastAPI** • **Distributed systems** • **UAV systems** • **Python production backends**
+
+### 📫 Reach me
+
+**Email:** [sakshambisen123@gmail.com](mailto:sakshambisen123@gmail.com)  
+**LinkedIn:** [linkedin.com/in/sbsaksham](https://linkedin.com/in/sbsaksham)
+
+<br>
+
+---
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=sb-saksham&show_icons=true&theme=radical" alt="Saksham Bisen" />
+</p>
+
+</details>
+
+<br>

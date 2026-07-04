@@ -5,7 +5,7 @@ Robotics & Automation engineer who moved into AI systems. I build the layer betw
 </p>
 <br>
 
-### 🚀 Featured — [sandbox-architectures](https://github.com/sb-saksham/sandbox-architectures)
+### 🚀 Featured — [agent-sandbox-architectures](https://github.com/sb-saksham/agent-sandbox-architectures)
 Benchmarked the **cold-boot cost of three isolation backends** for multi-tenant execution — Docker (runc, shared kernel), self-hosted Firecracker via **kata-fc on Kubernetes** (k3s · devmapper · RuntimeClass), and managed Firecracker via **E2B** — with measured p50/p95/p99 across two layers, per-backend security analysis, and a decision matrix.
 **Finding:** the microVM isolation boundary itself costs only **~0.8–1.0s over a container** — most of the visible 2.5–4.3s spawn gap is JupyterHub startup and orchestration, *not* the kernel boundary. Measured, not guessed.
 
